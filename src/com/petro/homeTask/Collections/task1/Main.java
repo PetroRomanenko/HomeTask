@@ -1,4 +1,4 @@
-package com.petro.homeTask;
+package com.petro.homeTask.Collections.task1;
 
 import java.util.ArrayList;
 import java.util.Collections;
